@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Shapes.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shapes.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\tringle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tringle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:48:19.389Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shapes.csproj.user",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Shapes.csproj.user",
+              "RelativeDocumentMoniker": "Shapes.csproj.user",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Shapes.csproj.user",
+              "RelativeToolTip": "Shapes.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-04-27T08:59:24.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-27T08:59:21.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:48:36.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Shapes.cs",
+              "RelativeDocumentMoniker": "Shapes.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Shapes.cs",
+              "RelativeToolTip": "Shapes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:04:48.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:54:07.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvx4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:09:16.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T05:09:15.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Line.cs",
+              "RelativeDocumentMoniker": "Line.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Line.cs",
+              "RelativeToolTip": "Line.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T19:03:00.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwCkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T18:24:28.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T19:19:58.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:31:36.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tringle.cs",
+              "DocumentMoniker": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Tringle.cs",
+              "RelativeDocumentMoniker": "Tringle.cs",
+              "ToolTip": "C:\\Users\\faris\\OneDrive\\Desktop\\232\\SWE-316\\HW1 - F\\Shapes\\Tringle.cs",
+              "RelativeToolTip": "Tringle.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwDsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T18:27:51.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

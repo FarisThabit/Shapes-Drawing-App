@@ -1,0 +1,17 @@
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.Form1.resources
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.csproj.GenerateResource.cache
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.AssemblyInfoInputs.cache
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.AssemblyInfo.cs
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\bin\Debug\net8.0-windows\Shapes.exe
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\bin\Debug\net8.0-windows\Shapes.deps.json
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\bin\Debug\net8.0-windows\Shapes.runtimeconfig.json
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\bin\Debug\net8.0-windows\Shapes.dll
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\bin\Debug\net8.0-windows\Shapes.pdb
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.dll
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\refint\Shapes.dll
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.pdb
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.genruntimeconfig.cache
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\ref\Shapes.dll
+C:\Users\faris\OneDrive\Desktop\232\SWE-316\HW1 - F\Shapes\obj\Debug\net8.0-windows\Shapes.Form2.resources
